@@ -1,3 +1,2 @@
 # sample-code
-A selection of sample code written whilst learning Python:
- basic arrays
+A selection of sample code written whilst learning Python
